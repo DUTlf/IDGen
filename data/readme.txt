@@ -1,0 +1,3 @@
+IDGen_en is a dataset of over 1,000 questions generated under the IDGen framework using publicly available English generalization datasets (Self_instruct seed data and Instruction tuning with GPT-4_en). The categories include basic NLP, text generation, text-based reasoning, code, mathematics, and others.
+
+IDGen_zh is a dataset of over 2,000 questions generated under the IDGen framework using Chinese datasets. The categories include basic NLP, text generation, text-based reasoning, and mathematics.
