@@ -17,6 +17,8 @@ The pipeline is illustrated in the following figure:
 ## Citation
 
 If you use the related theories or methods from our work or utilize our data, feel free to cite us.
+
+```
 @misc{lin2024idgenitemdiscriminationinduced,
       title={IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation}, 
       author={Fan Lin and Shuyi Xie and Yong Dai and Wenlin Yao and Tianjiao Lang and Zishan Xu and Zhichao Hu and Xiao Xiao and Yuhong Liu and Yu Zhang},
@@ -26,3 +28,6 @@ If you use the related theories or methods from our work or utilize our data, fe
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2409.18892}, 
 }
+```
+
+
